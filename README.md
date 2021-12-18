@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/GreenShelter/previewcard)
-- Live Site URL: [Add live site URL here](https://previewcard.herokuapp.com/)
+- Solution URL: [https://github.com/GreenShelter/previewcard.git](https://your-solution-url.com)
+- Live Site URL: [https://previewcard.herokuapp.com/](https://your-live-site-url.com)
 
 ## My process
 
